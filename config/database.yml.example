@@ -1,0 +1,8 @@
+development:
+      host: localhost
+      adapter: mysql
+      database: fedena
+      port: 3306
+      username: fedena
+      password: fedena
+
