@@ -3,7 +3,7 @@
 */
 div.popup {
   max-width: 600px;
-  border: 1px solid red;
+  border: 1px solid #00ff00;
   padding: 5px;
   background-color: white;
   /* The following properties should not be changed */

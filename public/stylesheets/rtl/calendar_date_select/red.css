@@ -21,7 +21,7 @@ iframe.ie6_blocker {
 .calendar_date_select .cds_buttons {
   text-align:center;
   padding:5px 0px;
-  background-color: #5f0000;
+  background-color: #005f00;
 }
 
 .calendar_date_select .cds_footer {
@@ -88,7 +88,7 @@ iframe.ie6_blocker {
 
 
 .calendar_date_select td {
-  background-color: #660000;
+  background-color: #006600;
   font-size:12px;
   width: 24px;
   height: 21px;
@@ -96,14 +96,14 @@ iframe.ie6_blocker {
   vertical-align: middle;
 }
 .calendar_date_select td.weekend {
-  background-color: #5a0000;
+  background-color: #005a00;
 }
 
 .calendar_date_select td div {
   color:#fff;
 }
 .calendar_date_select td div.other {
-  color: #93554C;
+  color: #55934C;
 }
 .calendar_date_select td.selected div {
   color:black;
@@ -111,7 +111,7 @@ iframe.ie6_blocker {
 
 
 .calendar_date_select tbody td {
-  border-bottom: 1px solid #550000;
+  border-bottom: 1px solid #005500;
 }
 .calendar_date_select tbody td.selected {
   background-color:white;
@@ -123,11 +123,11 @@ iframe.ie6_blocker {
 } 
 
 .calendar_date_select tbody td.today {
-  border: 1px dashed red;
+  border: 1px dashed green;
 }
 
 .calendar_date_select td.disabled div {
-  color: #440000;
+  color: #004400;
 }
 
 .fieldWithErrors .calendar_date_select {

@@ -28,7 +28,7 @@
     float:left;
     width:80px;
     height:35px;
-    border:1px dotted #800;
+    border:1px dotted #080;
     padding-top:15px;
     text-align:center;
     background-color:#090;
@@ -38,7 +38,7 @@
 .timetable_td_left {
     float:left;
     width:50px;height:35px;
-    border:1px dotted #800;
+    border:1px dotted #080;
     padding-top:15px;
     text-align:center;
     background-color:#090;
@@ -61,7 +61,7 @@
 }
 
 .selected_div {
-    background-color:#800;
+    background-color:#080;
 }
 
 .subjects {
@@ -85,7 +85,7 @@
     width:950px;
 }
 td{
-    color: #9f191f;
+    color: #199f1f;
     font-weight: bold;
     font-size: 13px;
 }
@@ -110,7 +110,7 @@ td .top{
     background: #fff;
     padding:5px 10px 5px 10px;
     text-align: center;
-    color: #9f191f;
+    color: #199f1f;
     font-weight: bold;
     font-size: 10px;
 

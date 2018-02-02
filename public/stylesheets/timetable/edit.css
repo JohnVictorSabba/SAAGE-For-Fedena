@@ -18,7 +18,7 @@
 .timetable_td_top {
     float:left;
     width:80px; height:25px;
-    border:1px solid #800;
+    border:1px solid #080;
     padding-top:5px;
     text-align:center;
     background-color:#090;
@@ -30,7 +30,7 @@
     float:left;
     font-size : 0.7em;
     width:50px;height:35px;
-    border:1px solid #800;
+    border:1px solid #080;
     padding-top:15px;
     text-align:center;
     background-color:#090;
@@ -102,7 +102,7 @@
     width:950px;
 }
 td{
-    color: #9f191f;
+    color: #199f1f;
     font-weight: bold;
     font-size: 13px;
 }
@@ -127,7 +127,7 @@ td .top{
     background: #fff;
     padding:5px 10px 5px 10px;
     text-align: center;
-    color: #9f191f;
+    color: #199f1f;
     font-weight: bold;
     font-size: 10px;
 
@@ -167,7 +167,7 @@ td.td{
     cursor : move;
 }
 .subjects:hover{
-    background: #9f191f;
+    background: #199f1f;
 }
 .drop{
     background: #fff;

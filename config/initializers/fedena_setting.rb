@@ -1,6 +1,6 @@
 FEDENA_DEFAULTS = {
-  :company_name => 'Saiche Tecnologia',
-  :company_url  => 'none '
+  :company_name => 'SAICHE Tecnologia',
+  :company_url  => 'javascript:alert("Sabba_&_Failache_Tecnologia\nAo_primeiro_Programador_de_Icoaraci,_Gaspar_Viana_-_DTI_PROCON-PA_2014");'
 }
 
 USER_SETTINGS = {}

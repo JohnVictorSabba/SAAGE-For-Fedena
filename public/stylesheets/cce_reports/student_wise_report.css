@@ -41,7 +41,7 @@ li.student_names, li.student_names a{
 }
 .student_list a.active-link{
     font-weight: bold;
-    color: #C00;
+    color: #0c0;
 }
 .student-name{
     height: 28px;
@@ -61,7 +61,7 @@ table#listing td{
     padding: 5px;
 }
 table#listing tr.tr-head,   .cgpa {
-    color: #C00;
+    color: #0c0;
     font-size: 13px;
     font-weight: bold;
 

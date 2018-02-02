@@ -54,7 +54,7 @@
     display:block;
 }
 .next a:hover, .prev a:hover{
-    color: #9B0C12;
+    color: #0C9B12;
 }
 .month{
     -moz-border-radius:8px;
@@ -157,7 +157,7 @@ li.student_names, li.student_names a{
 }
 .active-link{
     font-weight: bold;
-    color: #C00 !important;
+    color: #0c0 !important;
 }
 .student-name{
     height: 28px;
@@ -171,7 +171,7 @@ table#listing td{
     font-weight: bold;
 }
 table#listing tr.tr-head {
-    color: #C00;
+    color: #0c0;
     font-size: 13px;
 }
 .list_name {

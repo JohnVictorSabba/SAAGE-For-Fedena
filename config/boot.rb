@@ -1,6 +1,6 @@
 
 RAILS_ROOT = "#{File.dirname(__FILE__)}/.." unless defined?(RAILS_ROOT)
-#require 'thread'
+require 'thread'
 module Rails
   class << self
     def boot!

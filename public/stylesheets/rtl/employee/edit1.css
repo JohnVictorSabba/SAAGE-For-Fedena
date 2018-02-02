@@ -53,7 +53,7 @@
 .text_display {width:230px;height:28px;background:#fff url(../../../images/admission/text_input.jpg) no-repeat;margin-bottom:20px;color:#0b0;font-weight:bold;padding-right:10px;padding-top:3px;}
 
 .necessary-field {
-    color : #0f0;
+    color : #f00;
     font-size : 1.1em;
 }
 #necessary-field-notification {

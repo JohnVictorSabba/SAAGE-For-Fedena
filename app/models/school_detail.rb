@@ -20,8 +20,8 @@ class SchoolDetail < ActiveRecord::Base
   :styles => { :original=> "150x110#"},
   :url => "/system/:class/:attachment/:id_partition/:style/:basename.:extension",
   :path => ":rails_root/public/system/:class/:attachment/:id_partition/:style/:basename.:extension",
-  :default_url  => 'application/app_fedena_logo.png',
-  :default_path  => ':rails_root/public/images/application/app_fedena_logo.png'
+  :default_url  => 'application/mocajuba1.png',#Logo
+  :default_path  => ':rails_root/public/images/application/mocajuba1.png'#logo
 
   VALID_IMAGE_TYPES = ['image/gif', 'image/png','image/jpeg', 'image/jpg']
 

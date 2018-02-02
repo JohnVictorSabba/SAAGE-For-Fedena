@@ -2,7 +2,7 @@ default: "pt"
 available:
   en: "English"
   es: "Español"
-  pt: "português"
+  pt: "Português"
  
   
 fallbacks:
