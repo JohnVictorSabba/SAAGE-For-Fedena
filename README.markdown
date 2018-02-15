@@ -8,8 +8,9 @@ The Project Fedena website http://www.projectfedena.org/ is the home to the deve
 A demo website for Fedena has been set up at demo.projectfedena.org. You can log in with following usernames and passwords:
 
     * As admin -- username - admin, password - admin123
-    * As student -- username - 1, password - 1123
+    * As student -- username - 00001, password - 1123
     * As employee -- username - E1, password - E1123
+    * As fhater -- username - p00001, password - p00001123
 
 #License
 

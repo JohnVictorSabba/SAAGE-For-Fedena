@@ -12,7 +12,7 @@ test: &test
       database: fedena_two_new
       port: 3306
       username: root
-      password: foradian
+      password: admin
 
 production:
       host: localhost
@@ -20,6 +20,6 @@ production:
       database: fedena_ultimate
       port: 3306
       username: root
-      password: foradian
+      password: admin
 cucumber:
   <<: *test

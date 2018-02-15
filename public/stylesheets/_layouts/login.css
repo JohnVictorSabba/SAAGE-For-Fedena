@@ -89,14 +89,13 @@ input[type="text"], input[type="password"], textarea, select {outline: none;}
     margin-top : -33px; */
     height : 66px;
     clear : both;
-    background: url(/images/arquivo-final-saiche.png) repeat-x;/*Roda Pé*/
+    background: url(/images/foot-green.png) repeat-x;/*Roda Pé*/
     width:100%;
 }
 #footer_logo {
     height:66px;
     position:relative;
-    background: url(/images/arquivo-final-saiche.png)
-     width:980px;
+     width:1280px;
      margin:0 auto;
 }
 
@@ -137,10 +136,27 @@ input[type="text"], input[type="password"], textarea, select {outline: none;}
 
 #wrapper {
     min-height: 100%;
-    margin-bottom:-66px;
+    margin-bottom: -66px;
     position:relative;
 }
 .clearfooter {
-height: 66px;
-clear: both;
+   /*
+    margin-left: 570px; 
+    margin-right: 570px;
+    margin-top: -50px;
+    margin-bottom: 30px;
+    */
+margin: auto;
+margin-top: -50px;
+margin-bottom: auto;
+height: 70px;
+width: 225px;
+background-image: url(/images/arquivo-final-saiche.png);
+background-size:cover;
+
+
+
+
+
+/*clear: both;*/
 }
