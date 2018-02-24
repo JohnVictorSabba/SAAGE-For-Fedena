@@ -1369,7 +1369,7 @@ pt: # locale
   no_previous_data: "Sem Dados Previos"
   add_previous_data: "Adicionar Dados Anterior"
   group_tutor: "Grupo de Responsáveis Legais"
-  immediate_contact: "contatos Imediato"
+  immediate_contact: "Contatos Imediato"
   previous_institution: "Instituções Anterior"
   report_center: "Centro de Relatório"
   no_previous_subject: "Sem dados de disciplina Anterior Adicionado"
